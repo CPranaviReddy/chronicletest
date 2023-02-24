@@ -8,7 +8,7 @@ Online journal Application that allows both young and young at heart to write th
 
 This application is built using **MERN Stack** and **Draft js rich TextEditor** where user can pick a calendar date and write a journal entry using all the styles of text editor. Also user can search journal entries for particular month and view, edit or delete them.
 
-#### **[Deployed Application](https://oasis-diary.herokuapp.com/)**
+#### **[Deployed Application](https://chronicletest.herokuapp.com/)**
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ This application is built using **MERN Stack** and **Draft js rich TextEditor** 
 
 # Demo : 
 
-![Oasis](./client/src/images/journalapp.gif)
+![chronicletest](./client/src/images/journalapp.gif)
 
 # Preview : 
 
@@ -52,7 +52,7 @@ This application is built using **MERN Stack** and **Draft js rich TextEditor** 
 
 # Installation
 
-1. Clone the [repo](https://github.com/GauriKhandke/oasis) to your local machine.
+1. Clone the [repo](https://github.com/CPranaviReddy/chronicletest) to your local machine.
 
 2. On your local repo, run `npm install` to install dependencies.
 
@@ -93,13 +93,3 @@ This project is licensed under MIT License.
 
 Please let us know how we can improve this project. Issues and pull requests are always welcome.
 
-# Contributors: 
-* [Gauri Khandke](https://github.com/GauriKhandke)
-* [Pratyusha Raghupatruni](https://github.com/PratyushaRaghupatruni)
-* [Daniel Balderas Hafertepen](https://github.com/danybb2020)
-* [Brandon Johnson](https://github.com/sheikb08)
-* [Robeil Aregawi](https://github.com/Robeil)
-
-# Questions :
-* If you have any questions about the repo, here is our repo to submit issue 
-  https://github.com/GauriKhandke/oasis/issues/new
